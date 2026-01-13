@@ -1,0 +1,8 @@
+{
+  "name": "GeoCam Pro",
+  "description": "Uma câmera profissional que numera fotos sequencialmente, captura geolocalização exata e organiza seus registros com formatos personalizados.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}

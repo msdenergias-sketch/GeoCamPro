@@ -1,0 +1,19 @@
+
+{
+  "name": "GeoCam Pro",
+  "short_name": "GeoCam",
+  "description": "Câmera profissional com numeração e GPS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f0e",
+  "theme_color": "#10b981",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/685/685655.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
